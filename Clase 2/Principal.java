@@ -12,6 +12,7 @@ import java.util.Scanner;
 public class Principal{
 	public static void main(String args[]){
 		//Lectura de datos en consola
+		
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		int opcion=1;
 		try{
