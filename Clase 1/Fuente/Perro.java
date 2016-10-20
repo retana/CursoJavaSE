@@ -1,7 +1,7 @@
- public class Perro{
+ public class Perro{//Letra inicial mayuscula, si compone de 2 palabras MiPerro
 	//Alcance (Scope) - Tipo de dato - Nombre de Variable () -- Valor por defecto es NULL,Double,Integer | int = 0, double
 	public String raza="abc";
-	private Double costo=0.0;
+	private Double costo=0.0; //float, double Double
 	private char inicialDeNombre='A';
 	private int peso=100;
 	//Metodo constructor
